@@ -1,7 +1,3 @@
-#KARAGIANNIDIS CHRISTOS     4375    cse84375
-#KATSILEROU NEFELI-ELENI    4385    cse84385
-
-
 import sys;
 import os;
 
